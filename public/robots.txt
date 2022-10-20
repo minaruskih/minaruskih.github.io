@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://minaruskih.github.io/sitemap.xml
